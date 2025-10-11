@@ -673,7 +673,7 @@ Publish the website in the given URL.
 ![alt text](home.png)
 ![alt text](menu.png)
 ![alt text](admin.png)
-![alt text](Contact.png)
+![alt text](contact.png)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
