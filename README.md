@@ -34,7 +34,7 @@ Publish the website in the given URL.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Little Lemon Restaurant</title>
+    <title>Aditya Jorim Restaurant</title>
     <!-- Google Fonts for typography -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -391,8 +391,8 @@ Publish the website in the given URL.
     <header class="site-header">
         <div class="container header-content">
             <a href="#" class="logo">
-                <span class="logo-icon">🍋</span>
-                <span class="logo-text">Little Lemon</span>
+                <span class="logo-icon">⭐</span>
+                <span class="logo-text">Aditya Jorim</span>
             </a>
             <nav class="main-nav">
                 <ul>
@@ -673,7 +673,7 @@ Publish the website in the given URL.
 ![alt text](home.png)
 ![alt text](menu.png)
 ![alt text](admin.png)
-![alt text](contact.png)
+![alt text](Contact.png)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
